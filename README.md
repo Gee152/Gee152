@@ -7,10 +7,14 @@
 |----------|----|------|----|
 
 ### Desenvolvendo meus conhecimentos em:
-|<img src="https://user-images.githubusercontent.com/32654006/156607523-7e2bf52b-2ef2-4356-8bcf-aa8748720072.png" width="30px" padding="2px">|<img src="https://user-images.githubusercontent.com/32654006/156607532-3bf0d1ff-c933-4328-8398-13006d8d3518.png" width="30px" padding="2px">|<img src="https://user-images.githubusercontent.com/32654006/156607536-bcace51c-7a2a-477d-9881-96fc1ca8b863.png" width="30px" padding="2px">|<img src="https://user-images.githubusercontent.com/32654006/156607541-fc4886be-e8a2-4b96-98cc-3371042db944.png" width="30px" padding="2px">|<img 
-src="[https://user-images.githubusercontent.com/32654006/156607541-fc4886be-e8a2-4b96-98cc-3371042db944.png](https://user-images.githubusercontent.com/32654006/174615190-939e4e86-e68d-4c1d-b81b-963037bf42d3.png)" width="30px" padding="2px">|<img
-src="https://user-images.githubusercontent.com/32654006/156608572-7bf955e1-c8a3-4f92-8a3c-5c5e1f088565.png" width="30px" padding="2px">|<img
-src="https://user-images.githubusercontent.com/32654006/156608643-5e44ee54-2c96-4b70-85bf-7944a50bdb67.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156607523-7e2bf52b-2ef2-4356-8bcf-aa8748720072.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156607532-3bf0d1ff-c933-4328-8398-13006d8d3518.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156607536-bcace51c-7a2a-477d-9881-96fc1ca8b863.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156607541-fc4886be-e8a2-4b96-98cc-3371042db944.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156607541-fc4886be-e8a2-4b96-98cc-3371042db944.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/174615190-939e4e86-e68d-4c1d-b81b-963037bf42d3.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156608572-7bf955e1-c8a3-4f92-8a3c-5c5e1f088565.png" width="30px" padding="2px">
+|<img src="https://user-images.githubusercontent.com/32654006/156608643-5e44ee54-2c96-4b70-85bf-7944a50bdb67.png" width="30px" padding="2px">
 |----------|----|------|-----|---|---------|
 
 
